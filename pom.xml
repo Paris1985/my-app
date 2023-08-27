@@ -34,6 +34,9 @@
         <url>https://coffeebean.jfrog.io/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
+<scm>
+  <connection>scm:git:ssh://git@github.com:Paris1985/my-app.git</connection>
+</scm>
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
