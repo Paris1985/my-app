@@ -33,6 +33,7 @@
         <url>https://coffeebean.jfrog.io/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
+
 <scm>
   <connection>scm:git:ssh://git@github.com/Paris1985/my-app.git</connection>
   <tag>my-app-1.0</tag>
