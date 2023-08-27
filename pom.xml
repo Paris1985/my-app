@@ -41,7 +41,7 @@
 
 <scm>
   <connection>scm:git:ssh://git@github.com/Paris1985/my-app.git</connection>
-    <tag>my-app-1.0</tag>
+    <tag>my-app-1.1</tag>
   </scm>
 
   <build>
